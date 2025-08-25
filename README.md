@@ -1,19 +1,21 @@
 # Portfolio – Vitoria Regina Melo 
 
-
-> **"Qualidade não é fase, é cultura."**  
-
-Sou a **Vitoria Melo**, Analista de Qualidade de Software e acadêmica em Sistemas de Informação (Instituto Federal de Alagoas).  
-Minha missão é **garantir que softwares entreguem valor sem fricção**, encontrando falhas antes do usuário e aumentando a **confiança da equipe** no produto.  
+Sou a **Vitoria Melo**, Analista de Qualidade de Software e acadêmica em Sistemas de Informação (Instituto Federal de Alagoas).    
 
 ---
 
 ## O que me diferencia
-- Identificação e documentação de **bugs críticos** que impactariam diretamente o usuário final.  
-- Experiência prática em **Web, API e Mobile Testing**, unindo testes manuais e automação.  
-- Atuação em **equipes ágeis**, participando de dailies, plannings e reviews.  
-- Projeto com **CI/CD no GitHub Actions**, simulando pipelines reais de mercado.  
-- Conexão entre **negócio e tecnologia**: testes não só para achar bugs, mas para **prevenir falhas estratégicas**.  
+
+Não sou apenas alguém que executa testes.  
+Meu papel é **proteger o negócio contra falhas críticas**, garantir que cada entrega gere valor real e que a empresa avance com segurança e velocidade.
+
+- **Prevenção de riscos**: identifico e documento bugs críticos que, se chegassem ao cliente, poderiam gerar perda de confiança, retrabalho e custos elevados.  
+- **Velocidade com qualidade**: experiência prática em **Web, API e Mobile Testing**, unindo testes manuais e automação para acelerar entregas sem abrir mão da confiabilidade.  
+- **Integração com o negócio**: participo de **cerimônias ágeis**, traduzo requisitos de negócio em cenários de teste e asseguro que a visão estratégica se reflita no produto.  
+- **Cultura de qualidade**: implemento projeto com **CI/CD no GitHub Actions**, simulando pipelines reais que trazem previsibilidade e transparência às entregas.  
+- **Foco estratégico**: vejo testes não como custo, mas como **investimento que evita prejuízos e fortalece a confiança do usuário final**.  
+
+> Para mim, **qualidade é diferencial competitivo**: reduz riscos, protege a reputação e garante que a empresa entregue inovação sem comprometer a confiança do cliente.
 
 ---
 
@@ -77,7 +79,7 @@ Minha missão é **garantir que softwares entreguem valor sem fricção**, encon
 ---
 
 ## Tecnologias 
-**Testes:** Funcionais | Exploratório | Regressão | API | BDD  
+**Testes:** Funcionais | Exploratório | Regressão | API | BDD | Mobile    
 **Automação:** Cypress | Selenium (básico) | JavaScript  
 **Ferramentas:** Postman | Newman | Jira | Xray | Git | SQL (básico)  
 **Metodologias:** Scrum | Kanban  
